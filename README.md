@@ -15,4 +15,3 @@ com as interfaces de Aluno e Curso, tambem com os objetos Aluno e Curso,
 na pasta de painel temos um GUIform de todas as telas possiveis do programa,
 aonde configura-se as telas e suas ações.
 
-Portanto o sistema de instiução desenvolvido foi somente essa parte.
